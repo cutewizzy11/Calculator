@@ -26,7 +26,7 @@ Ensure you have the following software installed:
 
 1. Clone the repository or download the ZIP file.
    ```bash
-   git clone https://github.com/yourusername/SimpleCalculator.git
+   git clone https://github.com/cutewizzy11/Calculator.git
 2.   Open the solution file SimpleCalculator.sln in Visual Studio 2022.
    
 ### Running the Application
